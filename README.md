@@ -9,6 +9,7 @@ los libros con los que estoy trabajando son:
 |3. | Código Sostenible | Carlos Blo Jurado|
 |4. | Sumergete en los Patrones de Diseño | Alexander Shvets|
 |5. | No me hagas pensar| Steve Krug| 
+|6. | Git y GithHub desde cero| Brais Moure|
 
 
 En ningun momento mi intención es crear copias ilegales, simplemente adaptar el conocimiento de estos libros a un resumen en español donde usuarios nuevos puedan acceder y revisar su contenido para aprender o resolver alguna duda al momento de ejecutoar algun programa.
