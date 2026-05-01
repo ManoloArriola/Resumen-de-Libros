@@ -13,3 +13,4 @@ los libros con los que estoy trabajando son:
 
 
 En ningun momento mi intención es crear copias ilegales, simplemente adaptar el conocimiento de estos libros a un resumen en español donde usuarios nuevos puedan acceder y revisar su contenido para aprender o resolver alguna duda al momento de ejecutoar algun programa.
+invito a quien tenga los recursos, pueda en primer instancia aprender y mejorar sus habilidades y comprar libros originales. 
